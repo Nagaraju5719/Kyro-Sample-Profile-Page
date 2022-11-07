@@ -1,6 +1,6 @@
 import React from "react";
-import { useNavigate, useLocation } from "react-router-dom";
-import { Grid, Stack, Typography, Box, Button } from "@mui/material";
+import { useLocation } from "react-router-dom";
+import { Grid, Stack, Typography, Box } from "@mui/material";
 import ProfileForm from "../UIcomponents/Form";
 import PreviewProfileData from "../UIcomponents/PreviewProfileData";
 import { useState } from "react";
