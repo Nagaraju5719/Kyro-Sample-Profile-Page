@@ -5,7 +5,7 @@ import DashboardElements from "../UIcomponents/DashboardElements";
 function MenuSection() {
   return (
     <Box>
-      {/* <Navbar /> */}
+      <Navbar />
       <DashboardElements />
     </Box>
   );
