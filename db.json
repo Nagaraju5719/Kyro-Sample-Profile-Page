@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "firstName": "Node",
+      "firstName": "Node js",
       "lastName": "JS",
       "displayName": "node js",
       "email": "nodejs@js.com",
@@ -11,23 +11,23 @@
       "id": 6
     },
     {
-      "firstName": "xhklfsdsh",
-      "lastName": "lhzxdfsdfh",
-      "displayName": "hzxdflsdhf",
-      "email": "uihsdfshdu@jxdf.com",
+      "firstName": "React",
+      "lastName": "js",
+      "displayName": "reactjs",
+      "email": "reactjs@gmail.com",
       "officePhoneNumber": "8678023402",
       "homePhoneNumber": "8475934875",
-      "location": "xjdfgsigfuis",
+      "location": "react",
       "id": 7
     },
     {
-      "firstName": "hfytttttt",
-      "lastName": "yh54sd",
-      "displayName": "hrtsts",
-      "email": "jd@hjft.xlf",
+      "firstName": "Javascript",
+      "lastName": "JS",
+      "displayName": "JS",
+      "email": "js@js.com",
       "officePhoneNumber": "2314819494",
       "homePhoneNumber": "4664456464",
-      "location": "jguygygo",
+      "location": "js",
       "id": 8
     }
   ]

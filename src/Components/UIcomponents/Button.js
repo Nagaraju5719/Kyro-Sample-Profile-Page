@@ -24,5 +24,3 @@ const ButtonWrapper = ({ children, ...otherProps }) => {
 
 export default ButtonWrapper;
 
-
-//resetUserData
